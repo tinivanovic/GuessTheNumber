@@ -56,7 +56,7 @@ public String provjera(Broj broj){
         }
         else
         {
-            ispis = "\nVas broj je tocan! Cestitam!\nBroj pokusaja: "+broj.getBrojac();
+            ispis = "\nVas broj je tocan! Cestitam!";
             
         }   
     
